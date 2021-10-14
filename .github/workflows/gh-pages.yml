@@ -30,4 +30,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
-          external_repository: kimberchen/kimberchen.github.io/personal_site
+          external_repository: kimberchen/kimberchen.github.io
+          publish_branch: master
