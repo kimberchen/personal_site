@@ -17,6 +17,9 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+[site]
+  description = "The last theme you'll ever need. Maybe."
+  
 [params]
   author = "kimber"
   favicon = ""
