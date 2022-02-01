@@ -22,7 +22,6 @@ enableRobotsTXT = true
   
 [params]
   author = "kimber"
-  commentoEnable = true
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
